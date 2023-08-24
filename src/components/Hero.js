@@ -18,11 +18,7 @@ export default function Header({ color }) {
     contactSection.scrollIntoView({ behavior: "smooth" });
   };
   const linkedin = () => {
-    window.open(
-                `${profile.linkedin}`,
-                "_blank",
-                "noreferrer,noopener"
-              );
+    window.open(`mailto:${profile.email}`, "_blank", "noreferrer,noopener");
   };
   return (
     <>
@@ -72,18 +68,11 @@ export default function Header({ color }) {
               _hover={{
                 bg: `${color}.500`,
               }}
-              onClick={linkedin}
-            >
-              Let's connect!
-            </Button>
-            <Button
-              variant={"link"}
-              colorScheme={"blue"}
-              size={"sm"}
               onClick={scrollToContact}
             >
-              Contact Me
+              CONTACT ME
             </Button>
+ 
             <Box>
               <Icon
                 as={Arrow}

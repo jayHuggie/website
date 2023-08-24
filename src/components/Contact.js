@@ -34,7 +34,7 @@ export default function Contact({ color }) {
           <Stack align="center" direction="row" p={4}>
             <HStack mx={4}>
               <Text color={`${color}.400`} fontWeight={800}>
-                04
+                03
               </Text>
               <Text fontWeight={800}>Contact</Text>
             </HStack>
@@ -50,7 +50,7 @@ export default function Contact({ color }) {
             </Text>
             <Center>
               <HStack pt={4} spacing={4}>
-                <FaLinkedin onClick={linkedin} size={28} />
+   
                 <FaGithub onClick={github} size={28} />
                 <FaEnvelope onClick={email} size={28} />
               </HStack>
