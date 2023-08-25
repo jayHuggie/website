@@ -16,4 +16,4 @@ I'll get back to you as soon as I can :)
 - Email: jhl011@ucsd.edu
 
 ## Logo
-- JAYHUGGIE
+- 
