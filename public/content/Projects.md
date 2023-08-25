@@ -6,7 +6,7 @@ A GPU Path Tracer written in CUDA C++ with BVH acceleration.
   - CUDA [blue]
   - C++ [blue]
 - Buttons:
-  - GitHub [https://github.com/jayHuggie/website]
+  - GitHub [https://github.com/jayHuggie/PathTracer_CUDA]
 
 ## Physically Based Renderer
 Course Project of UCSD CSE 168 (Computer Graphics II: Rendering)
@@ -15,7 +15,7 @@ Course Project of UCSD CSE 168 (Computer Graphics II: Rendering)
 - Badges:
   - C++ [blue]
 - Buttons:
-  - GitHub [https://github.com/jayHuggie/]
+  - GitHub [https://github.com/jayHuggie/PBR]
 
 ## First OpenGL Project
 This was my Final Project for UCSD Math 155A (Geometric Computer Graphics) where I had to design a scene in OpenGL from scratch.
@@ -25,4 +25,4 @@ This was my Final Project for UCSD Math 155A (Geometric Computer Graphics) where
   - OpenGL [blue]
   - C++ [blue]
 - Buttons:
-  - GitHub [https://github.com/jayHuggie/]
+  - GitHub [https://github.com/jayHuggie/First_OpenGL_Project]
