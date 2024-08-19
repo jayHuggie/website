@@ -10,7 +10,7 @@ A GPU Path Tracer written in CUDA C++ with BVH acceleration.
 
 ## Physically Based Renderer
 Course Project of UCSD CSE 168 (Computer Graphics II: Rendering)
-- ![200x200](../assets/dining_room_PBR.png)
+- ![200x200](../assets/dining_room_PBR.jpeg)
 - Tags: Category 2
 - Badges:
   - C++ [blue]
