@@ -1,6 +1,6 @@
 ## PathTracer_CUDA
 A GPU Path Tracer written in CUDA C++ with BVH acceleration.
-- ![200x200](http://drive.google.com/uc?export=view&id=1dhhvIEv7eMTVVy1IDx4yG9ZOi4PM7mJl)
+- ![200x200](../public/assets/cornell_box_GPU.png)
 - Tags: Category 1
 - Badges:
   - CUDA [blue]
