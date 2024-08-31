@@ -53,7 +53,6 @@ export default function Contact({ color }) {
                 <FaLinkedin onClick={linkedin} size={28} />
                 <FaGithub onClick={github} size={28} />
                 <FaEnvelope onClick={email} size={28} />
-                <FaLinkedin onClick={linkedin} size={28} />
               </HStack>
             </Center>
           </Stack>
