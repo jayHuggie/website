@@ -60,6 +60,19 @@ export default function Header({ color }) {
             alignSelf={"center"}
             position={"relative"}
           >
+
+            <Button
+              colorScheme={color}
+              bg={`${color}.400`}
+              rounded={"full"}
+              px={6}
+              _hover={{
+                bg: `${color}.500`,
+              }}
+              onClick={linkedin}
+            >
+              Let's connect!
+            </Button>
             <Button
               colorScheme={color}
               bg={`${color}.400`}
