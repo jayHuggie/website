@@ -4,7 +4,7 @@
 ## Header
 - Hi, my name is Jae Hyuk! 
 - My goal is to be a Graphics Engineer
-- I'm a Senior at UC San Diego studying Mathematics and Computer Science.
+- I'm a recent graduate in Mathematics - Computer Science at UC San Diego
 
 ## About
 Hey! My name is Jae Hyuk Lee (you can call me Joseph). I graduated from UC San Diego in June 2024 with a major in Mathematics - Computer Science. I am deeply passionate about Computer Graphics, where Math and CS converge powerfully. From constructing basic OpenGL scenes to developing my own Path-Tracing Graphics engine using CUDA, my enthusiasm for the field is rapidly growing and I dream of working in this field one day. I have no prior work experience, but I am determined to expand my interest even further through my first internship in Computer Graphics.
