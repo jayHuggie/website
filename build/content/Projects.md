@@ -38,3 +38,13 @@ A character animation system with skeleton loading, skinning, and keyframe anima
   - C++ [blue]
 - Buttons:
   - GitHub [https://github.com/jayHuggie/Animation_with_DynamicCubemap]
+ 
+## First OpenGL Project
+This was my Final Project for UCSD Math 155A (Geometric Computer Graphics) where I had to design a scene in OpenGL from scratch.
+- ![200x200](../assets/openGL_scene1.png)
+- Tags: Category 5
+- Badges:
+  - OpenGL [blue]
+  - C++ [blue]
+- Buttons:
+  - GitHub [https://github.com/jayHuggie/First_OpenGL_Project]
