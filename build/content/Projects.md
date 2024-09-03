@@ -26,3 +26,15 @@ A simulation of a cloth using particles, spring-dampers, and triangular surfaces
   - C++ [blue]
 - Buttons:
   - GitHub [https://github.com/jayHuggie/Cloth_Simulation]
+ 
+  
+## Animation with Dynamic Cubemap
+A character animation system with skeleton loading, skinning, and keyframe animation. It also includes static and dynamic cubemaps for environment mapping, real-time reflections, and basic Physically Based Rendering (PBR) materials, all developed with OpenGL and GLSL. (Final Project for UCSD CSE 169 - Computer Animation) 
+- ![200x200](../assets/overview.gif)
+- Tags: Category 4
+- Badges:
+  - OpenGL [blue]
+  - GLSL [blue]
+  - C++ [blue]
+- Buttons:
+  - GitHub [https://github.com/jayHuggie/Animation_with_DynamicCubemap]
