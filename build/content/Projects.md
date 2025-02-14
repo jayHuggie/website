@@ -1,5 +1,5 @@
-## PathTracer_CUDA
-A GPU Path Tracer written in CUDA C++ with BVH acceleration.
+## PathTracer_CUDA (2025 Version)
+A Fast GPU Path Tracer written in CUDA C++ with BVH acceleration.
 - ![200x200](../assets/Dragon_1000.png)
 - Tags: Category 1
 - Badges:
