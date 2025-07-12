@@ -1,3 +1,14 @@
+## Interactive PathTracer_CUDA
+A real-time GPU Path Tracer in CUDA C++, featuring BVH acceleration, global illumination, and progressive rendering in an interactive OpenGL display.
+- ![200x200](../assets/sphere_interactive.gif)
+- Tags: Category 1
+- Badges:
+  - CUDA [blue]
+  - C++ [blue]
+  - OpenGL [blue]
+- Buttons:
+  - GitHub [https://github.com/jayHuggie/PathTracer_CUDA_Interactive]
+
 ## PathTracer_CUDA (2025 Version)
 A Fast GPU Path Tracer written in CUDA C++ with BVH acceleration.
 - ![200x200](../assets/Dragon_1000.png)
