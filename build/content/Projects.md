@@ -1,6 +1,6 @@
 ## Interactive PathTracer_CUDA
 A real-time GPU Path Tracer in CUDA C++, featuring BVH acceleration, global illumination, and progressive rendering in an interactive OpenGL display.
-- ![200x200](../assets/sphere_interactive.gif)
+- ![200x200](../assets/sphere_progressive.gif)
 - Tags: Category 1
 - Badges:
   - CUDA [blue]
