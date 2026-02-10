@@ -1,13 +1,3 @@
-## Ray Tracing in Game Boy Color
-A Game Boy Color homebrew ROM that renders a raytraced 3D scene with real-time shading and shadows.
-- ![200x200](../assets/gbc_live_demo.gif)
-- Tags: Category 1
-- Badges:
-  - C [blue]
-  - GBDK-2020 [blue]
-- Buttons:
-  - GitHub [https://github.com/jayHuggie/GBC_RayTracer]
-
 ## Interactive PathTracer_CUDA
 A real-time GPU Path Tracer in CUDA C++, featuring BVH acceleration, global illumination, and progressive rendering in an interactive OpenGL display.
 - ![200x200](../assets/sphere_progressive.gif)
@@ -18,6 +8,26 @@ A real-time GPU Path Tracer in CUDA C++, featuring BVH acceleration, global illu
   - OpenGL [blue]
 - Buttons:
   - GitHub [https://github.com/jayHuggie/PathTracer_CUDA_Interactive]
+
+## Cloth Simulation - WebGPU
+A browser-based, real-time WebGPU cloth simulation using adjustable triangle resolution, mass, gravity, springs, damping, wind, and camera controls.
+- ![200x200](../assets/cloth_webgpu_demo.gif)
+- Tags: Category 1
+- Badges:
+  - WebGPU [blue]
+  - TypeScript [blue]
+- Buttons:
+  - GitHub [https://github.com/jayHuggie/Cloth_Simulation_WebGPU]
+ 
+## Ray Tracing in Game Boy Color
+A Game Boy Color homebrew ROM that renders a raytraced 3D scene with real-time shading and shadows.
+- ![200x200](../assets/gbc_live_demo.gif)
+- Tags: Category 1
+- Badges:
+  - C [blue]
+  - GBDK-2020 [blue]
+- Buttons:
+  - GitHub [https://github.com/jayHuggie/GBC_RayTracer]
 
 ## PathTracer_CUDA (2025 Version)
 A Fast GPU Path Tracer written in CUDA C++ with BVH acceleration.
