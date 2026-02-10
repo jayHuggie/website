@@ -1,6 +1,6 @@
 ## Interactive PathTracer_CUDA
 A real-time GPU Path Tracer in CUDA C++, featuring BVH acceleration, global illumination, and progressive rendering in an interactive OpenGL display.
-- ![200x200](../assets/sphere_progressive.gif)
+- ![200x200](../assets/buddha_progressive.gif)
 - Tags: Category 1
 - Badges:
   - CUDA [blue]
@@ -17,7 +17,7 @@ A browser-based, real-time WebGPU cloth simulation using adjustable triangle res
   - WebGPU [blue]
   - TypeScript [blue]
 - Buttons:
-  - Try it Yourself! [https://jayhuggie-cloth.netlify.app]
+  - Click Me to Try! [https://jayhuggie-cloth.netlify.app]
   - GitHub [https://github.com/jayHuggie/Cloth_Simulation_WebGPU]
  
 ## Ray Tracing in Game Boy Color
