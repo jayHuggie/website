@@ -17,6 +17,7 @@ A browser-based, real-time WebGPU cloth simulation using adjustable triangle res
   - WebGPU [blue]
   - TypeScript [blue]
 - Buttons:
+  - Try it Yourself! [https://jayhuggie-cloth.netlify.app]
   - GitHub [https://github.com/jayHuggie/Cloth_Simulation_WebGPU]
  
 ## Ray Tracing in Game Boy Color
