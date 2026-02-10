@@ -1,3 +1,13 @@
+## Ray Tracing in Game Boy Color
+A Game Boy Color homebrew ROM that renders a raytraced 3D scene with real-time shading and shadows.
+- ![200x200](../assets/gbc_live_demo.gif)
+- Tags: Category 1
+- Badges:
+  - C [blue]
+  - GBDK-2020 [blue]
+- Buttons:
+  - GitHub [https://github.com/jayHuggie/GBC_RayTracer]
+
 ## Interactive PathTracer_CUDA
 A real-time GPU Path Tracer in CUDA C++, featuring BVH acceleration, global illumination, and progressive rendering in an interactive OpenGL display.
 - ![200x200](../assets/sphere_progressive.gif)
